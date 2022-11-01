@@ -31,3 +31,13 @@ body {
   padding: 20px;
   position: relative;
 }
+
+.key small {
+  color: #555;
+  font-size: 14px;
+  position: absolute;
+  top: -24px;
+  left: 0;
+  text-align: center;
+  width: 100%;
+}
